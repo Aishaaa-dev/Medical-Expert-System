@@ -60,3 +60,8 @@ It has two windows: one where the patient ticks their symptoms and another that 
 
 <img width="1039" height="566" alt="image" src="https://github.com/user-attachments/assets/827637c4-2855-4b8e-8665-f0ca62f89bb8" />
 
+
+## Semantics Network image
+
+
+<img width="3138" height="1640" alt="Blank diagram (1)" src="https://github.com/user-attachments/assets/66fe8436-b274-422c-a290-acd958965597" />
